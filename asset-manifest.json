@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/final/static/css/main.c839ff79.chunk.css",
+    "main.js": "/final/static/js/main.3c6ff0c3.chunk.js",
+    "main.js.map": "/final/static/js/main.3c6ff0c3.chunk.js.map",
+    "runtime-main.js": "/final/static/js/runtime-main.90441373.js",
+    "runtime-main.js.map": "/final/static/js/runtime-main.90441373.js.map",
+    "static/css/2.05a0ae32.chunk.css": "/final/static/css/2.05a0ae32.chunk.css",
+    "static/js/2.179393a2.chunk.js": "/final/static/js/2.179393a2.chunk.js",
+    "static/js/2.179393a2.chunk.js.map": "/final/static/js/2.179393a2.chunk.js.map",
+    "index.html": "/final/index.html",
+    "precache-manifest.c3416c9d2b5e5004e23588ec96b33d03.js": "/final/precache-manifest.c3416c9d2b5e5004e23588ec96b33d03.js",
+    "service-worker.js": "/final/service-worker.js",
+    "static/css/2.05a0ae32.chunk.css.map": "/final/static/css/2.05a0ae32.chunk.css.map",
+    "static/css/main.c839ff79.chunk.css.map": "/final/static/css/main.c839ff79.chunk.css.map",
+    "static/js/2.179393a2.chunk.js.LICENSE.txt": "/final/static/js/2.179393a2.chunk.js.LICENSE.txt",
+    "static/media/cheesepizza.jpg": "/final/static/media/cheesepizza.67ecdbfe.jpg",
+    "static/media/hawaiianpizza.jpg": "/final/static/media/hawaiianpizza.39077f48.jpg",
+    "static/media/pepperonipizza.jpg": "/final/static/media/pepperonipizza.53e76c18.jpg",
+    "static/media/sausagepizza.jpg": "/final/static/media/sausagepizza.65fa5a85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90441373.js",
+    "static/css/2.05a0ae32.chunk.css",
+    "static/js/2.179393a2.chunk.js",
+    "static/css/main.c839ff79.chunk.css",
+    "static/js/main.3c6ff0c3.chunk.js"
+  ]
+}
